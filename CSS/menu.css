@@ -33,5 +33,5 @@ header label {
 }
 
 #menu-bar:checked ~ .menu {
-    transform: translateX(75%);
+    transform: translateX(0%);
 }
