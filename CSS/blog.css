@@ -1,5 +1,6 @@
 #blog h3, h4 {
     text-align: center;
+    color: rgba(127, 41, 130, 1);
 }
 #blog .contenedor {
     display: flex;
