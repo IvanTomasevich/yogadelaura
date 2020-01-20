@@ -1,4 +1,13 @@
-#blog h3, h4 {
+#bienvenidos {
+    padding-right: 5%;
+    padding-left: 5%;
+    color: rgba(127, 41, 130, 1);
+    font-size: 19px;
+  }
+  #bienvenidos {
+      text-align: center;
+  }
+#blog h2, h3, h4 {
     text-align: center;
     color: rgba(127, 41, 130, 1);
 }

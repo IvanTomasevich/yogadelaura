@@ -42,14 +42,6 @@ section {
   margin-bottom: 25px;
 }
 
-#bienvenidos {
-  text-align: center;
-  text-align: justify;
-  padding-right: 5%;
-  padding-left: 5%;
-  color: rgba(127, 41, 130, 1);
-  font-size: 19px;
-}
 iframe {
   max-width: 100%;
   max-height: auto;
