@@ -23,24 +23,24 @@
 #banner p {
     font-size: 18px;
     font-weight: bold;
-    text-align: center;
 }
 
 #banner a {
     display: block;
     width: 100px;
-    float: right;
+    float: left;
     font-weight: bold;
     font-size: 18px;
     color: rgba(127, 41, 130, 1);
     text-decoration: none;
     padding: 7px;
     margin-top: 20px;
+    margin-left: 60px;
     border: 3px solid rgba(127, 41, 130, 1);
 }
 
 #banner a:hover {
-    background: rgba(22, 0, 30, 0.5);
+    background: rgba(127, 41, 130, 0.25);
 }
 @media (min-width:480px){
     #banner h2 {
@@ -57,11 +57,11 @@
     }
     #banner img {
         height: auto;
-        margin-top: -100px;
+        margin-bottom: -75px;
     }
 }
 @media (min-width:1024px){
     #banner img {
-        margin-top: -200px;
+        margin-bottom: -100px;
     }
 }
